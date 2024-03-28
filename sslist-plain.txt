@@ -1,0 +1,446 @@
+!!========== GOOGLE ==========
+||google.com
+||about.google
+||googletagmanager.com
+||googletagservices
+||doubleclick.net
+||google.co.jp
+||youtube.com
+||youtu.be
+||googlevideo.com
+||ggpht.com
+||ytimg.com
+||googlecommerce.com
+||googleapis.com
+||google-analytics.com
+||googletagservices.com
+||appspot.com
+||chrome.com
+||gstatic.com
+!/== MAP
+||gstatic.com
+||goo.gl
+||googleusercontent.com
+||googlesyndication.com
+!/== BLOGGER
+||blogger.com
+!/== GMAIL
+||gmail.com
+!/== AD
+||googleadservices.com
+!/==Calendar
+||calendar.com
+||static.zdassets.com
+!/==CHROMIUM
+||chromium.org
+!/==GOOGLEBLOG
+||googleblog.com
+!/==CHROMEOS
+||chromeenterprise.google
+||withgoogle.com
+
+!!========== SOFT ==========
+||duetdisplay.com
+||rime.im
+!/==Termius
+||termius.com
+||webflow.com
+||gitbook.com
+||firebaseio.com
+!/==MindNode
+||mindnode.com
+||analytics.ideasoncanvas.com
+||picpick.app
+||discord.com
+!/==Divoom
+||divoom.com
+||gstatic.com
+||chatra.io
+!/==Tiktok
+||tiktok.com
+
+!!========== APPLE ==========
+||itunes.apple.com
+||appleid.apple.com
+||communities.apple.com
+||discussions.apple.com
+
+!!========== UTILITY ==========
+||ifixit.com
+!/==Noisli
+||noisli.com
+||mxpnl.com
+||v2ray.com
+||justmysocks2.net
+
+!!========== FORUMS ==========
+!/==v2ex
+||v2ex.com
+!/==MacRumors
+||macrumors.com
+||sharethrough.com
+||nsstatic.net
+||yumenetworks.com
+||mgr.consensu.org
+||scorecardresearch.com
+||amazon-adsystem.com
+||ytimg.com
+||switchadhub.com
+!/==WordPress
+||wordpress.com
+||wordpress.org
+||pinimg.com
+||gravatar.com
+!/==Quora
+||quoracdn.net
+||quora.com
+
+!!========== FINANCE ==========
+||huobi.com
+||huobiasia.vip
+||woodpeckerlog.com
+||zopim.com
+||hbfile.net
+||zendesk.com
+
+
+!!========== 3D Engine ==========
+||threejs.org
+
+!!========== DEVELOPER ==========
+||videojs.com
+||ignimgs.com
+||mux.com
+||zencdn.net
+||unlock-music.dev
+||workers.dev
+||expressjs.com
+||pugjs.org
+||gradle.org
+||jquery.com
+||ruanyifeng
+||xdebug.org
+||vuejs.org
+||yapi.*
+||regexr.com
+||i.stack
+||webpackjs
+||webpack.js
+||gitter.im
+||apachefriends.com
+||gnu.org
+||fontawesome.com
+||w3schools.com
+||jslint.com
+||electronjs.org
+!/== GITHUB
+||nr-data.net
+||github.com
+||github.blog
+||githubassets.com
+||githubusercontent.com
+||github.community
+||vercel.app
+||discourse-cdn.com
+!/== STACKFLOW
+||stackoverflow.com
+||stack.imgur.com
+||cdn.sstatic.net
+||stackexchange.com
+||scorecardresearch.com
+||quantcount.com
+!/== DISQUS
+||disqus.com
+||disquscdn.com
+!/== DROP BOX
+||dropbox.com
+||dropboxstatic.com
+!/== TAMPER MONKEY
+||openuserjs.org
+||tampermonkey.net
+!/== Mozilla.org
+||developer.mozilla.org
+||secure.gravatar.com
+!/==CodeSandbox
+||codesandbox.io
+||codefund.app
+||stripe.com
+!/==Vue
+||vimeo.com
+!/===JSfiddle
+||fiddle.jshell.net
+||jsfiddle.net
+!/== SVG.js
+||cdn.rawgit.com
+||jsfiddle.net
+||github.io
+!/== IDEA
+||jetbrains.com
+!/== DISCORD
+||discordapp.com
+||discordapp.net
+!/== NPMJS
+||npmjs.com
+!/== PYTHON
+||python.org
+!/== KOTLINCN
+||kotlincn.net
+!/== DOCKER
+||mouseflow.com
+||polldaddy.com
+||optimizely.com
+!/== GOOGLE
+||web.dev
+||imgix.net
+!/== ANDROID
+||android.com
+!/== CSS-TRICKS
+||wp.com
+||cloudflareinsights.com
+||twimg.com
+||codepen.io
+!/== GO LANG
+||golang.org
+||learn.go.dev
+!/== FULL CALENDAR
+||fullcalendar.io
+!/== ICON ICON
+||ionic.io
+!!========== SEARCH ==========
+||duckduckgo.com
+
+!!========== XXOO ==========
+||xvideos.com
+||xvideos-cdn.com
+!/== PORNHUB
+||pornhub.com
+||phncdn.com
+||contentabc.com
+||trafficjunky.net
+
+!!========== POPULAR ==========
+!/== WIKI
+||wikipedia.org
+||upload.wikipedia.org
+||wikimedia.org
+!/== FACEBOOK
+||facebook.net
+||facebook.com
+||fbcdn.net
+!/== INSTAGRAM
+||instagram.com
+||cdninstagram.com
+!/== LINKEDIN
+||linkedin.com
+||adnxs.com
+||lynda.com
+||licdn.com
+!/== TWITTER
+||twitter.com
+||twimg.com
+||t.co
+!! ad
+||ads-twitter.com
+!! relate
+||doubleclick.net
+!/== SPOTIFY
+||spotify.com
+||t.co
+||snapchat.com
+||adsrvr.org
+||semasio.ne
+||scdn.co
+||global.ssl.fastly.net
+||hotjar.com
+||myvisualiq.net
+||fastly-insights.com
+!/==Grammly
+||grammarly.com
+||reddit.com
+||redditstatic.com
+||grammarly.io
+||quora.com
+!/== Netflix
+||netflix.com
+||nflxext.com
+!/==REDDIT
+||redd.it
+||redditmedia.com
+||redditstatic.com
+
+
+!!========== IM ==========
+!/== What's app
+||whatsapp.com
+||whatsapp.net
+!/== TELEGRAM
+||telegram.org
+||telegram.me
+||t.me
+||telesco.pe
+!/== Skype
+||skype.com
+||browser.pipe.aria.microsoft.com
+!/==Whatsapp
+||whatsapp.com
+
+!!========== DESIGN ==========
+||500px.com
+||unsplash.com
+||adobe.com
+||adobemobiledev.demdex.net
+||sketch.com
+||sketchapp.com
+||500px.org
+
+!!========== NEWS ==========
+||npr.org
+!/== BBC
+||bbc.com
+||atwola.com
+||bbc.co.uk
+||bbci.co.uk
+||crwdcntrl.net
+||skimresources.com
+!/== Yahho
+||yahoo.com
+||mathtag.com
+||adtechus.com
+||yimg.com
+!/== NewyorkTime
+||nytimes.com
+||nyt.com
+!/== NBC news
+||nbcnews.com
+||mobileadtrading.com
+||zemanta.com
+||moatads.com
+||fwmrm.net
+||taboola.com
+||s-nbcnews.com
+||parsely.com
+||perfectmarket.com
+||quantserve.com
+!/== WASHINGDON POST
+||washingtonpost.com
+||krxd.net
+||netmng.com
+||experianmarketingservices.digital
+||pubmatic.com
+||eyeota.net
+||turn.com
+||casalemedia.com
+||amgdgt.com
+||cloudfront.net
+||sharethis.com
+||adsafeprotected.com
+||researchnow.com
+||r.nexac.com
+||mathtag.com
+!/== ABC NEWS
+||abcnews.go.com
+||abcnews.com
+||uplynk.com
+||newrelic.com
+||optimizely.com
+||imrworldwide.com
+||vilynx.com
+!/== TBS
+||tbs.com
+||squarespace.com
+||typekit.net
+!/== FOXNEWS
+||cloudflare.com
+||taplytics.com
+
+!/== TEAM COCO
+||teamcoco.com
+||teamcococdn.com
+||trustarc.com
+||art19.com
+||amazonaws.com
+||ywxi.net
+||azureedge.net
+||shopify.com
+
+
+!!========== SHOPPING ==========
+!/== EBAY
+||ebaystatic.com
+||ebay-us.com
+||online-metrix.net
+||gopro.com
+||amazon.com
+
+!!========== PRODUCT ==========
+!/ == SEGWAY
+||segway.com
+
+
+!!========== GAMES ==========
+!/== EA
+||ea.com
+||soundcloud.com
+||typekit.net
+||callofduty.com
+||cookielaw.org
+||superhotgame.com
+!/== STEAM
+||steampowered.com
+||steamstatic.com
+
+!!========== FUN ==========
+||makemepulse.com
+||prismic.io
+||myfonts.net
+
+!!========== OTHERS ==========
+||inpandora.com
+||workona.com
+||producthunt.com
+||workona.com.*
+||cloudfront.net
+||bat.bing.com
+||geekbench.com
+
+!!========== CHAT ==========
+||omegle.onl
+||tedrighor.top
+||omegle.com
+||kik.com
+
+!!========== LITTLE ==========
+||yigeni.com
+
+!!========== OFFICE ==========
+||msocdn.com
+
+!!========== APP ==========
+||iina.io
+
+!!========== INDUSTRY ==========
+||spacex.com
+
+
+!!========== Motor ==========
+||iomttraces.com
+||jsdelivr.net
+||typekit.net
+
+!!========== GFW ==========
+||justmysocks.net
+||bandwagonhost.com
+||comodo.com
+||statuscake.com
+||58ppyun.com
+
+!!========== IMAGES ==========
+||imgur.com
+
+!!========== FlipperZero ==========
+||flipperzero.one
+||unpkg.com
+||flipper.net
+||discord.gg
+||archbee.com
+||amazonaws.com
